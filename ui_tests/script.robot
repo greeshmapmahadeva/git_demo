@@ -1,2 +1,3 @@
 *** Settings ***
-Library
+Library    Browser
+***Setting ***
